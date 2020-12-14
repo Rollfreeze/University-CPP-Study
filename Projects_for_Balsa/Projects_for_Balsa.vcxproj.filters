@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem3">
+      <UniqueIdentifier>{c6eb5506-7c2f-4133-8178-eb888aef53fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem4">
+      <UniqueIdentifier>{4c2a03a0-f6f3-4416-8156-63ec19ed1760}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem3\Creature_array">
+      <UniqueIdentifier>{38d6bb98-df61-488a-985f-03953df97981}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem4\Creature_double_array">
+      <UniqueIdentifier>{2b4baf76-3f97-4699-aa79-a0868446bd4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem3\Task1.3">
+      <UniqueIdentifier>{af29f120-b29b-4188-af7e-a2e576d81145}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem3\Task1.2">
+      <UniqueIdentifier>{7eb304b4-be00-41cc-a8ff-059f12d90808}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem3\Task1.1">
+      <UniqueIdentifier>{ff0e1064-1235-4b01-a340-3a1063171920}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem4\Task2.1">
+      <UniqueIdentifier>{17242647-5a08-422d-b1af-81da3c514ec7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem4\Task2.2">
+      <UniqueIdentifier>{46f32a34-4fcc-41da-9b6a-6ff2c0805681}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Mains">
+      <UniqueIdentifier>{fe977e15-06af-4bcd-adcd-d5bb639cad13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Sem5">
+      <UniqueIdentifier>{e21cf800-c887-4f62-a62a-960f705d63e1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="outputArray.cpp">
+      <Filter>Исходные файлы\Sem3</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar3.cpp">
+      <Filter>Исходные файлы\Sem3</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar4.cpp">
+      <Filter>Исходные файлы\Sem4</Filter>
+    </ClCompile>
+    <ClCompile Include="UserColumnSizeArray.cpp">
+      <Filter>Исходные файлы\Sem4\Creature_double_array</Filter>
+    </ClCompile>
+    <ClCompile Include="UserStringSizeArray.cpp">
+      <Filter>Исходные файлы\Sem4\Creature_double_array</Filter>
+    </ClCompile>
+    <ClCompile Include="inputDoulbeArray.cpp">
+      <Filter>Исходные файлы\Sem4\Creature_double_array</Filter>
+    </ClCompile>
+    <ClCompile Include="inputArray.cpp">
+      <Filter>Исходные файлы\Sem3\Creature_array</Filter>
+    </ClCompile>
+    <ClCompile Include="usersizeArray.cpp">
+      <Filter>Исходные файлы\Sem3\Creature_array</Filter>
+    </ClCompile>
+    <ClCompile Include="output_double_array.cpp">
+      <Filter>Исходные файлы\Sem4</Filter>
+    </ClCompile>
+    <ClCompile Include="Change_array.cpp">
+      <Filter>Исходные файлы\Sem3\Task1.3</Filter>
+    </ClCompile>
+    <ClCompile Include="mult_ellements.cpp">
+      <Filter>Исходные файлы\Sem3\Task1.1</Filter>
+    </ClCompile>
+    <ClCompile Include="Sum_ellements.cpp">
+      <Filter>Исходные файлы\Sem3\Task1.2</Filter>
+    </ClCompile>
+    <ClCompile Include="looking_for_minus_elements.cpp">
+      <Filter>Исходные файлы\Sem4\Task2.1</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Исходные файлы\Mains</Filter>
+    </ClCompile>
+    <ClCompile Include="mainMenu.cpp">
+      <Filter>Исходные файлы\Mains</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Исходные файлы\Mains</Filter>
+    </ClCompile>
+    <ClCompile Include="point_searching.cpp">
+      <Filter>Исходные файлы\Sem4\Task2.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Saddle.cpp">
+      <Filter>Исходные файлы\Sem4\Task2.2</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar5.cpp">
+      <Filter>Исходные файлы\Sem5</Filter>
+    </ClCompile>
+    <ClCompile Include="symbols.cpp">
+      <Filter>Исходные файлы\Sem5</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_for_help.cpp">
+      <Filter>Исходные файлы\Sem3\Task1.3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Prototypes.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
